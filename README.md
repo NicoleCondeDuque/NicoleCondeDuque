@@ -1,5 +1,5 @@
 <h1 align="center"> Hola! soy Nicole Conde👩🏿‍💻!</h1>
-<h3 align="center">Front-End Developer y Project manager.!</h3>
+<h3 align="center" color= "blue">Front-End Developer y Project manager.!</h3>
 
 Soy una persona innovadora y con la capacidad de trabajar en equipo y liderar projectos de impacto. En el 2021 decidí reinventar mi vida y conocí el desarrollo web, lo que más me gusta es poder transformar las ideas en algo real en cada proyecto. A través del desarrollo web, encontré la manera de poder complementar mi carrera, lo que me ha permitido planificar, organizar, crear y materializar productos.
 
