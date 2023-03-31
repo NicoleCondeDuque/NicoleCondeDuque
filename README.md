@@ -1,7 +1,7 @@
 <h1 align="center"> Hola! soy Nicole Conde👩🏿‍💻!</h1>
-<h3 align="center" color= "blue">Front-End Developer y Project manager.!</h3>
+<h3 align="center">Front-End Developer y Project manager!</h3>
 
-Soy una persona innovadora y con la capacidad de trabajar en equipo y liderar projectos de impacto. En el 2021 decidí reinventar mi vida y conocí el desarrollo web, lo que más me gusta es poder transformar las ideas en algo real en cada proyecto. A través del desarrollo web, encontré la manera de poder complementar mi carrera, lo que me ha permitido planificar, organizar, crear y materializar productos.
+Innovadora, creativa y con la capacidad de liderar proyectos de impacto, en el 2021 decidí reinventar mi vida y conocí el desarrollo web, a través del cual encontré la forma de poder complementar mi carrera soy licenciada en administracion de empresas de profesion. El mundo de las posibilidades e ideas se hace infinito, esto me permite constantemente aprender cosas nuevas con mucha pasión y poder convertirme en Project manager IT.
 
 <h3 align="left">Conecta conmigo:</h3>
 <a href="https://www.linkedin.com/in/nicolecondeduque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolecondeduque/" height="30" width="40" /></a>
