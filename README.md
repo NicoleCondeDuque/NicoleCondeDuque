@@ -7,9 +7,9 @@ Innovadora, creativa y con la capacidad de liderar proyectos de impacto, en el 2
 <a href="https://www.linkedin.com/in/nicolecondeduque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolecondeduque/" height="30" width="40" /></a>
 </p>
 
-- 🔭 Quieres saber más de mi? [dale click y encontrarás mi CV](https://www.canva.com/design/DAFezQ1mobA/SGLBhS_c0_6AiydxOSpb3Q/watch?utm_content=DAFezQ1mobA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 🔭 Quieres saber más de mi? [dale click y encontrarás mi CV](https://www.canva.com/design/DAFezQ1mobA/SGLBhS_c0_6AiydxOSpb3Q/view)
 - 🌱 Estoy estudiando **Ingles**
-- 💬 Estoy desarrolando un proyecto con **Angular** [https://github.com/NicoleCondeDuque/DEV003-burger-queen-api-client]
+- 💬 Estoy desarrolando un proyecto con **Angular**[puedes darle un vistazo aqui!](https://github.com/NicoleCondeDuque/DEV003-burger-queen-api-client)
 - 📫 Como contactarme **Nicolecondeduque@gmail.com**
 - 🤔 Quiero aprender proximamente ... mongoDB, kubernetes.
 - ⚡ Algo divertido:... Me gustan mucho los animales!
