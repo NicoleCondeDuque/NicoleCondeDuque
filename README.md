@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! I`m Nicole Conde👩🏿‍💻!</h1>
 <h3 align="center">Front-End Developer y Project manager!</h3>
-***Innovative, creative and with the ability to lead and develop impact projects, the world of possibilities and ideas becomes infinite, this allows me to constantly want to learn about new technologies***
+ Innovative, creative and with the ability to lead and develop impact projects, the world of possibilities and ideas becomes infinite, this allows me to constantly want to learn about new technologies
 
 <h3 align="left">Conecta conmigo:</h3>
 <a href="https://www.linkedin.com/in/nicolecondeduque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolecondeduque/" height="30" width="40" /></a>
