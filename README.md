@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! Im Nicole Conde👩🏿‍💻!</h1>
-<h3 align="center">Front-End Developer y Project manager!</h3>
+<h3 align="center">Front-End Developer!</h3>
  Innovative, creative and with the ability to lead and develop impact projects, the world of possibilities and ideas becomes infinite, this allows me to constantly want to learn about new technologies
 
 <h3 align="left">connect with me:</h3>
