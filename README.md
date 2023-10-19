@@ -1,16 +1,16 @@
 <h1 align="center"> Hi! Im Nicole Conde👩🏿‍💻!</h1>
 <h3 align="center">Front-End Developer!</h3>
- Innovative, creative and with the ability to lead and develop impact projects, the world of possibilities and ideas becomes infinite, this allows me to constantly want to learn about new technologies
+Innovative, creative, and possessing the ability to learn, lead, and develop impactful projects, the world of possibilities and ideas becomes boundless. This constant drive encourages me to continuously explore new technologies.
 
 <h3 align="left">connect with me:</h3>
 <a href="https://www.linkedin.com/in/nicolecondeduque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolecondeduque/" height="30" width="40" /></a>
 </p>
 
-- 🔭 About me? [dale click y encontrarás mi CV](https://www.canva.com/design/DAFezQ1mobA/SGLBhS_c0_6AiydxOSpb3Q/view)
-- 🌱 I`m study **React**
-- 💬 I am developing a project with **Angular** [puedes darle un vistazo aqui!](https://github.com/NicoleCondeDuque/DEV003-burger-queen-api-client)
-- 📫 How to contact me **Nicolecondeduque@gmail.com**
-- 🤔 I want to learn soon ... **SQL, Python.**
+- 🔭 About me? [dale click y encontrarás mi CV]([https://www.canva.com/design/DAFezQ1mobA/SGLBhS_c0_6AiydxOSpb3Q/view](https://www.canva.com/design/DAFxqAG8em0/view))
+- 🌱 I'm studying **React**
+- 💬  I'm working on a project with **Angular** [puedes darle un vistazo aqui!](https://github.com/NicoleCondeDuque/DEV003-burger-queen-api-client)
+- 📫 You can contact me at **Nicolecondeduque@gmail.com**
+- 🤔 I want to learn soon ... **SQL and Python.**
 - ⚡ Something funny:... **I want a farm!**
 
 <h3 align="left">Languages and Tools:</h3>
