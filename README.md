@@ -6,7 +6,7 @@ Innovative, creative, and possessing the ability to learn, lead, and develop imp
 <a href="https://www.linkedin.com/in/nicolecondeduque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolecondeduque/" height="30" width="40" /></a>
 </p>
 
-- 🔭 About me? [dale click y encontrarás mi CV]([https://www.canva.com/design/DAFezQ1mobA/SGLBhS_c0_6AiydxOSpb3Q/view](https://www.canva.com/design/DAFxqAG8em0/view))
+- 🔭 About me? [dale click y encontrarás mi CV](https://www.canva.com/design/DAFxqAG8em0/view)
 - 🌱 I'm studying **React**
 - 💬  I'm working on a project with **Angular** [puedes darle un vistazo aqui!](https://github.com/NicoleCondeDuque/DEV003-burger-queen-api-client)
 - 📫 You can contact me at **Nicolecondeduque@gmail.com**
