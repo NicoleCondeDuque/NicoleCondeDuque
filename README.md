@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! Im Nicole Conde👩🏿‍💻!</h1>
+<h1 align="center"> Hi there 👩🏿‍💻, Nicole Conde here!</h1>
 <h3 align="center">Front-End Developer!</h3>
 Innovative, creative, and possessing the ability to learn, lead, and develop impactful projects, the world of possibilities and ideas becomes boundless. This constant drive encourages me to continuously explore new technologies.
 
