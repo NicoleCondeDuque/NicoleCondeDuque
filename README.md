@@ -7,6 +7,7 @@ Innovative and creative, with a strong aptitude for learning, leading, and devel
 </p>
 
 - 🔭 About me?
+  
 👋 Hi there! I'm Nicole Conde, a versatile Software Developer specializing in JavaScript, React, and Angular. I hold a Bachelor’s degree in Business Administration (BBA), which gives me a unique blend of technical expertise and business acumen.
 
 💼 Before diving into the tech world, I gained valuable experience as a Product Manager, where I led cross-functional teams to successfully launch new product features that increased customer engagement by 25%. My role helped sharpen my problem-solving skills and deepened my understanding of end-user needs, laying the foundation for my transition into software development.
