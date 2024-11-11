@@ -21,7 +21,7 @@ Innovative and creative, with a strong aptitude for learning, leading, and devel
 😊 I’m always open to connecting and exploring new opportunities!
 
 - 🌐 WEBSITE: [Click here!](https://www.nicoleconde.com)
-- 🌱 I'm studying **AI**
+- 🌱 I'm studying **Azure Fundamental certification**
 - 💬  I'm working on a project with **Angular** [puedes darle un vistazo aqui!](https://github.com/NicoleCondeDuque/DEV003-burger-queen-api-client)
 - 📫 You can contact me at **Nicolecondeduque@gmail.com**
 - 🤔 I want to learn soon ... **SQL and Python.**
