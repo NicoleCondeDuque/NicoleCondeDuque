@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Nicole Conde</h1>
-<h3 align="center">Product-Minded Frontend Engineer • React • Angular • UX-Driven Systems</h3>
+<h3 align="center">Product-Minded Frontend Developer • React • Angular • UX-Driven Systems</h3>
 <p align="center">Turning real user needs into clean, scalable, high-performance web applications.</p>
 
 ---
