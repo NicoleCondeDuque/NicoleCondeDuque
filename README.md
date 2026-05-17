@@ -6,9 +6,7 @@
 
 ### 👩🏽‍💻 About Me
 
-Frontend Engineer with experience building production-ready applications using **React, Angular, and TypeScript**.
-
-With a background in **Business Administration and Product Management**, I bridge business strategy and engineering execution translating complex requirements into intuitive, scalable user experiences.
+Frontend developer with experience in business and product design, building production-ready applications using React, Angular, and TypeScript.
 
 I collaborate across cross-functional teams and focus on writing clean, maintainable code that supports long-term product growth.
 
